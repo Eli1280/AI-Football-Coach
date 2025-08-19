@@ -1,0 +1,60 @@
+[
+  {"id":1,"nom":"Passes en triangle","type":"technique","durée_min":6,"intensité":"faible","nombre_joueurs":3,"matériel":"ballons, cônes","objectifs_tactiques":"précision de passe, contrôle orienté","tir_cage":false,"age":"U10"},
+  {"id":2,"nom":"Dribbles en slalom","type":"technique","durée_min":7,"intensité":"faible","nombre_joueurs":1,"matériel":"ballons, cônes","objectifs_tactiques":"maîtrise du ballon, agilité","tir_cage":false,"age":"U10"},
+  {"id":3,"nom":"Jeu réduit 2v2","type":"jeu réduit","durée_min":8,"intensité":"moyenne","nombre_joueurs":4,"matériel":"ballons, mini-but","objectifs_tactiques":"premières combinaisons offensives","tir_cage":true,"age":"U10"},
+  {"id":4,"nom":"Passes courtes avec déplacement","type":"technique","durée_min":6,"intensité":"faible","nombre_joueurs":2,"matériel":"ballons","objectifs_tactiques":"vitesse d'exécution et contrôle","tir_cage":false,"age":"U10"},
+  {"id":5,"nom":"Jeu réduit 3v3 + tir final","type":"jeu réduit","durée_min":10,"intensité":"moyenne","nombre_joueurs":6,"matériel":"ballons, mini-but","objectifs_tactiques":"finir sur tir, travail collectif","tir_cage":true,"age":"U10"},
+  
+  {"id":6,"nom":"Rondo 4v2","type":"technique","durée_min":9,"intensité":"moyenne","nombre_joueurs":6,"matériel":"ballons","objectifs_tactiques":"prises de décision rapides","tir_cage":false,"age":"U13"},
+  {"id":7,"nom":"Dribbles combinés","type":"technique","durée_min":8,"intensité":"moyenne","nombre_joueurs":1,"matériel":"ballons, cônes","objectifs_tactiques":"agilité et coordination","tir_cage":false,"age":"U13"},
+  {"id":8,"nom":"Jeu réduit 4v4 + tir final","type":"jeu réduit","durée_min":12,"intensité":"moyenne","nombre_joueurs":8,"matériel":"ballons, mini-but","objectifs_tactiques":"transitions rapides et finition","tir_cage":true,"age":"U13"},
+  {"id":9,"nom":"Passes longues en profondeur","type":"technique","durée_min":8,"intensité":"moyenne","nombre_joueurs":2,"matériel":"ballons","objectifs_tactiques":"précision de passe longue","tir_cage":false,"age":"U13"},
+  {"id":10,"nom":"Jeu réduit 3v3 + joker","type":"jeu réduit","durée_min":12,"intensité":"élevée","nombre_joueurs":7,"matériel":"ballons, mini-but","objectifs_tactiques":"variantes offensives","tir_cage":true,"age":"U13"},
+  
+  {"id":11,"nom":"Slalom avec conduite et tir","type":"technique","durée_min":9,"intensité":"moyenne","nombre_joueurs":1,"matériel":"ballons, cônes, mini-but","objectifs_tactiques":"agilité et finition","tir_cage":true,"age":"U15"},
+  {"id":12,"nom":"Rondo 5v2 + tir final","type":"technique","durée_min":10,"intensité":"moyenne","nombre_joueurs":7,"matériel":"ballons","objectifs_tactiques":"pressing et prise de décision","tir_cage":true,"age":"U15"},
+  {"id":13,"nom":"Jeu réduit 5v5 + tir final","type":"jeu réduit","durée_min":14,"intensité":"élevée","nombre_joueurs":10,"matériel":"ballons, mini-but","objectifs_tactiques":"finir sur tir et cohésion offensive","tir_cage":true,"age":"U15"},
+  {"id":14,"nom":"Conduite rapide + passe","type":"technique","durée_min":8,"intensité":"moyenne","nombre_joueurs":2,"matériel":"ballons","objectifs_tactiques":"contrôle et vision du jeu","tir_cage":false,"age":"U15"},
+  {"id":15,"nom":"Jeu réduit 4v4 + fin au but","type":"jeu réduit","durée_min":12,"intensité":"élevée","nombre_joueurs":8,"matériel":"ballons, mini-but","objectifs_tactiques":"transitions rapides + tir","tir_cage":true,"age":"U15"},
+  
+  {"id":16,"nom":"Rondo 6v2","type":"technique","durée_min":10,"intensité":"moyenne","nombre_joueurs":8,"matériel":"ballons","objectifs_tactiques":"passes rapides et coordination","tir_cage":false,"age":"U17"},
+  {"id":17,"nom":"Jeu réduit 4v4 + tir final","type":"jeu réduit","durée_min":15,"intensité":"élevée","nombre_joueurs":8,"matériel":"ballons, mini-but","objectifs_tactiques":"transitions rapides + tir","tir_cage":true,"age":"U17"},
+  {"id":18,"nom":"Slalom combiné + tir final","type":"technique","durée_min":10,"intensité":"moyenne","nombre_joueurs":1,"matériel":"ballons, cônes, mini-but","objectifs_tactiques":"agilité + finition","tir_cage":true,"age":"U17"},
+  {"id":19,"nom":"Jeu réduit 5v5 + finition rapide","type":"jeu réduit","durée_min":15,"intensité":"élevée","nombre_joueurs":10,"matériel":"ballons, mini-but","objectifs_tactiques":"pressing, finition","tir_cage":true,"age":"U17"},
+  {"id":20,"nom":"Passes rapides en mouvement","type":"technique","durée_min":9,"intensité":"moyenne","nombre_joueurs":2,"matériel":"ballons","objectifs_tactiques":"transitions rapides","tir_cage":false,"age":"U17"},
+
+  {"id":21,"nom":"Conduite + tir final","type":"technique","durée_min":10,"intensité":"élevée","nombre_joueurs":1,"matériel":"ballons, mini-but","objectifs_tactiques":"agilité et finition rapide","tir_cage":true,"age":"Seniors"},
+  {"id":22,"nom":"Jeu réduit 5v5 + tir final","type":"jeu réduit","durée_min":16,"intensité":"élevée","nombre_joueurs":10,"matériel":"ballons, mini-but","objectifs_tactiques":"transition rapide et finition","tir_cage":true,"age":"Seniors"},
+  {"id":23,"nom":"Rondo avancé 7v3","type":"technique","durée_min":12,"intensité":"élevée","nombre_joueurs":10,"matériel":"ballons","objectifs_tactiques":"prise de décision sous pression","tir_cage":false,"age":"Seniors"},
+  {"id":24,"nom":"Jeu réduit 6v6 + tir final","type":"jeu réduit","durée_min":18,"intensité":"élevée","nombre_joueurs":12,"matériel":"ballons, mini-but","objectifs_tactiques":"stratégie offensive + finition","tir_cage":true,"age":"Seniors"},
+  {"id":25,"nom":"Slalom + passes longues","type":"technique","durée_min":10,"intensité":"moyenne","nombre_joueurs":1,"matériel":"ballons, cônes","objectifs_tactiques":"agilité et vision du jeu","tir_cage":false,"age":"Seniors"},
+
+  {"id":26,"nom":"Passes rapides 3v1","type":"technique","durée_min":8,"intensité":"moyenne","nombre_joueurs":4,"matériel":"ballons, cônes","objectifs_tactiques":"vitesse d'exécution et anticipation","tir_cage":false,"age":"U13"},
+  {"id":27,"nom":"Jeu réduit 3v3 + tir final","type":"jeu réduit","durée_min":12,"intensité":"élevée","nombre_joueurs":6,"matériel":"ballons, mini-but","objectifs_tactiques":"finir par tir, travail collectif","tir_cage":true,"age":"U13"},
+  {"id":28,"nom":"Dribbles et passes combinés","type":"technique","durée_min":9,"intensité":"moyenne","nombre_joueurs":2,"matériel":"ballons, cônes","objectifs_tactiques":"coordination et vision du jeu","tir_cage":false,"age":"U15"},
+  {"id":29,"nom":"Jeu réduit 4v4 + tir final","type":"jeu réduit","durée_min":14,"intensité":"élevée","nombre_joueurs":8,"matériel":"ballons, mini-but","objectifs_tactiques":"transitions et finition","tir_cage":true,"age":"U15"},
+  {"id":30,"nom":"Conduite + passe + tir final","type":"technique","durée_min":10,"intensité":"moyenne","nombre_joueurs":2,"matériel":"ballons, mini-but","objectifs_tactiques":"contrôle, vision, finition","tir_cage":true,"age":"U17"},
+  
+  {"id":31,"nom":"Rondo 5v3","type":"technique","durée_min":10,"intensité":"moyenne","nombre_joueurs":8,"matériel":"ballons","objectifs_tactiques":"prise de décision rapide","tir_cage":false,"age":"U17"},
+  {"id":32,"nom":"Jeu réduit 4v4 + tir final","type":"jeu réduit","durée_min":15,"intensité":"élevée","nombre_joueurs":8,"matériel":"ballons, mini-but","objectifs_tactiques":"pressing et finition","tir_cage":true,"age":"U17"},
+  {"id":33,"nom":"Slalom combiné + tir final","type":"technique","durée_min":10,"intensité":"élevée","nombre_joueurs":1,"matériel":"ballons, cônes, mini-but","objectifs_tactiques":"agilité et finition","tir_cage":true,"age":"Seniors"},
+  {"id":34,"nom":"Jeu réduit 5v5 + tir final","type":"jeu réduit","durée_min":16,"intensité":"élevée","nombre_joueurs":10,"matériel":"ballons, mini-but","objectifs_tactiques":"transition rapide et finition","tir_cage":true,"age":"Seniors"},
+  {"id":35,"nom":"Rondo avancé 6v3","type":"technique","durée_min":12,"intensité":"élevée","nombre_joueurs":9,"matériel":"ballons","objectifs_tactiques":"prise de décision sous pression","tir_cage":false,"age":"Seniors"},
+  
+  {"id":36,"nom":"Jeu réduit 3v3 + tir final","type":"jeu réduit","durée_min":12,"intensité":"moyenne","nombre_joueurs":6,"matériel":"ballons, mini-but","objectifs_tactiques":"finir par tir","tir_cage":true,"age":"U10"},
+  {"id":37,"nom":"Dribbles et passes combinés","type":"technique","durée_min":8,"intensité":"moyenne","nombre_joueurs":2,"matériel":"ballons, cônes","objectifs_tactiques":"agilité et coordination","tir_cage":false,"age":"U13"},
+  {"id":38,"nom":"Jeu réduit 4v4 + tir final","type":"jeu réduit","durée_min":14,"intensité":"élevée","nombre_joueurs":8,"matériel":"ballons, mini-but","objectifs_tactiques":"pressing et finition","tir_cage":true,"age":"U13"},
+  {"id":39,"nom":"Slalom + passe + tir final","type":"technique","durée_min":10,"intensité":"moyenne","nombre_joueurs":1,"matériel":"ballons, cônes, mini-but","objectifs_tactiques":"agilité et finition","tir_cage":true,"age":"U15"},
+  {"id":40,"nom":"Jeu réduit 5v5 + tir final","type":"jeu réduit","durée_min":16,"intensité":"élevée","nombre_joueurs":10,"matériel":"ballons, mini-but","objectifs_tactiques":"rapide transition et finition","tir_cage":true,"age":"U15"},
+  
+  {"id":41,"nom":"Rondo 6v2","type":"technique","durée_min":10,"intensité":"moyenne","nombre_joueurs":8,"matériel":"ballons","objectifs_tactiques":"passes rapides et coordination","tir_cage":false,"age":"U17"},
+  {"id":42,"nom":"Jeu réduit 4v4 + tir final","type":"jeu réduit","durée_min":15,"intensité":"élevée","nombre_joueurs":8,"matériel":"ballons, mini-but","objectifs_tactiques":"transitions rapides + tir","tir_cage":true,"age":"U17"},
+  {"id":43,"nom":"Conduite rapide + tir final","type":"technique","durée_min":10,"intensité":"élevée","nombre_joueurs":1,"matériel":"ballons, mini-but","objectifs_tactiques":"agilité et finition","tir_cage":true,"age":"Seniors"},
+  {"id":44,"nom":"Jeu réduit 5v5 + tir final","type":"jeu réduit","durée_min":16,"intensité":"élevée","nombre_joueurs":10,"matériel":"ballons, mini-but","objectifs_tactiques":"transition rapide et finition","tir_cage":true,"age":"Seniors"},
+  {"id":45,"nom":"Rondo avancé 7v3","type":"technique","durée_min":12,"intensité":"élevée","nombre_joueurs":10,"matériel":"ballons","objectifs_tactiques":"prise de décision sous pression","tir_cage":false,"age":"Seniors"},
+  {"id":46,"nom":"Jeu réduit 6v6 + tir final","type":"jeu réduit","durée_min":18,"intensité":"élevée","nombre_joueurs":12,"matériel":"ballons, mini-but","objectifs_tactiques":"stratégie offensive + finition","tir_cage":true,"age":"Seniors"},
+  {"id":47,"nom":"Passes rapides 3v1","type":"technique","durée_min":8,"intensité":"moyenne","nombre_joueurs":4,"matériel":"ballons, cônes","objectifs_tactiques":"vitesse d'exécution","tir_cage":false,"age":"U13"},
+  {"id":48,"nom":"Jeu réduit 3v3 + tir final","type":"jeu réduit","durée_min":12,"intensité":"élevée","nombre_joueurs":6,"matériel":"ballons, mini-but","objectifs_tactiques":"finir par tir","tir_cage":true,"age":"U13"},
+  {"id":49,"nom":"Dribbles combinés + tir final","type":"technique","durée_min":10,"intensité":"moyenne","nombre_joueurs":1,"matériel":"ballons, cônes, mini-but","objectifs_tactiques":"agilité et finition","tir_cage":true,"age":"U15"},
+  {"id":50,"nom":"Jeu réduit 5v5 + tir final","type":"jeu réduit","durée_min":16,"intensité":"élevée","nombre_joueurs":10,"matériel":"ballons, mini-but","objectifs_tactiques":"transition rapide + finition","tir_cage":true,"age":"U15"}
+]
